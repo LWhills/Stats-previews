@@ -15,7 +15,7 @@ body {
   margin: 0;
   display: grid;
   place-items: center;
-  min-height: 100vh;
+  height: calc(100vh - calc(100vh - 100%));
 }
 h1 {
   font-size: 1.75rem;
