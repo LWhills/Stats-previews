@@ -16,7 +16,7 @@ body {
   height: 100vh;
   display: grid;
   place-items: center;
-  overscroll-behavior: contain;
+  overscroll-behavior: none;
 }
 h1 {
   font-size: 1.75rem;
