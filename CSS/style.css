@@ -7,7 +7,16 @@
 }
 
 /* Typography */
-
+/* Link */
+a {
+  text-decoration: none;
+  color: rgb(231, 212, 147);
+}
+a:hover,
+a:focus {
+  color: rgb(255, 145, 0);
+}
+/*  */
 body {
   font-family: "Inter", sans-serif;
   font-size: 15px;
@@ -72,6 +81,9 @@ h1 {
 }
 .informations-elements {
   margin-bottom: 0;
+}
+.attribution {
+  margin-top: auto;
 }
 @media only screen and (min-width: 800px) {
   /* Typography */
