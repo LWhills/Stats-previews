@@ -1,4 +1,4 @@
-# 3-Column-Preview
+# Stats preview
 
 Front end mentor challenge : [Link](https://www.frontendmentor.io/solutions/stats-preview-card-component-ld-rHTRV5)
 
