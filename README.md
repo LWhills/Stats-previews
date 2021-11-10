@@ -10,4 +10,4 @@ Front end mentor challenge : [Link](https://www.frontendmentor.io/solutions/stat
   
 ## Demo
 
-https://loganwillaumez.github.io/stats-previews/
+https://loganwillaumez-frontendmentor.github.io/002-stats-previews/
